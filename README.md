@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @wepybot
+- 👀 I’m interested in Python, AI, and Kali Linux
+- 🌱 I’m currently reading Foundation by Isaac Asimov
+- 💬 Join my server on Discord ! [Raspberry Pi Squad](https://discord.gg/J4Vz4W4)
+- 💞️ I’m looking to collaborate on [Raspberry Pi Squad's website](https://github.com/Raspberry-Pi-Squad/website)
+- 📫 How to reach me (on Discord of course) : I am the owner of the server so ...
